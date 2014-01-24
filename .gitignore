@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.DS_STORE
+ipcc_projections
+*.kmz
+*.nc
+*.tar
+*~

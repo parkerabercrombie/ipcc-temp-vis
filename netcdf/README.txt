@@ -1,6 +1,3 @@
-
-Author: Parker Abercrombie <parker@pabercrombie.com>
-
 Getting the data
 ----------------
 
